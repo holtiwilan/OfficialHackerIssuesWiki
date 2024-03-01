@@ -5,6 +5,6 @@ SSID: WIFI
 
 PASSWD: HACKER1234
 
-# [Wiki] (https://github.com/holtiwilan/OfficialHackerIssuesWiki/wiki/Hacker-Advanced-Settings-Explained)
+# [Wiki](https://github.com/holtiwilan/OfficialHackerIssuesWiki/wiki/Hacker-Advanced-Settings-Explained)
 # [FAQ](https://github.com/holtiwilan/OpenSourceHackerMagicDevice/wiki/FAQ)
 
