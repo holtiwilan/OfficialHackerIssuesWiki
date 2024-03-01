@@ -1,14 +1,10 @@
-# OpenSourceHackerMagicDevice
-This is the Opensource variant of the "Hacker" Magic Trick from Les French Twins.
-It's based on the Work of Spacehuhn (https://github.com/spacehuhntech/esp8266_deauther) and reengineering of the binary from the Hacker device.
+# Hacker MagicDevice Wiki and Issues
+This is the repository for the Wiki and the Issues for the "Hacker" Magic Trick from Les French Twins.
 
 SSID: WIFI
+
 PASSWD: HACKER1234
 
-# [Wiki](https://github.com/holtiwilan/OpenSourceHackerMagicDevice/wiki)
+# [Wiki] (https://github.com/holtiwilan/OfficialHackerIssuesWiki/wiki/Hacker-Advanced-Settings-Explained)
 # [FAQ](https://github.com/holtiwilan/OpenSourceHackerMagicDevice/wiki/FAQ)
-
-# Tipping Jar
-If you appreciate my work, maybe you Tip me a coffee
-https://www.paypal.com/paypalme/TimHolzhausen
 
